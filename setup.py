@@ -69,7 +69,7 @@ setup(
     url="https://github.com/rl-institut/rli_template",  # Optional
     # This should be your name or the name of the organization which owns the
     # project.
-    author="Reiner Lemoine Institut",  # Optional
+    author="RE-Lab",  # Optional
     # This should be a valid email address corresponding to the author listed
     # above.
     # author_email='pypa-dev@googlegroups.com',  # Optional
