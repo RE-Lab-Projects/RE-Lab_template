@@ -7,10 +7,10 @@ Welcome to rli_template's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-
+   intro
 
 Indices and tables
 ==================
